@@ -234,7 +234,7 @@ under the License.
         <slf4j.version>2.0.6</slf4j.version>
         <metrics-core.version>4.0.2</metrics-core.version>
         <!--Netty 4.1.94 is not compatible with arrow flight.-->
-        <netty-all.version>4.1.96.Final</netty-all.version>
+        <netty-all.version>4.1.124.Final</netty-all.version>
         <!--The dependence of transitive dependence cannot be ruled out, only Saving the nation through twisted ways.-->
         <netty-3-test.version>3.10.6.Final</netty-3-test.version>
         <objenesis.version>2.1</objenesis.version>
@@ -279,7 +279,7 @@ under the License.
          you can find avro version info in iceberg mvn repository -->
         <iceberg.version>1.1.0</iceberg.version>
         <delta.version>3.0.0rc1</delta.version>
-        <maxcompute.version>0.45.2-public</maxcompute.version>
+        <maxcompute.version>0.53.1-public</maxcompute.version>
         <avro.version>1.11.2</avro.version>
         <arrow.version>13.0.0</arrow.version>
         <!-- hudi -->
@@ -303,7 +303,7 @@ under the License.
         <hadoop.version>3.3.6</hadoop.version>
         <joda.version>2.8.1</joda.version>
         <project.scm.id>github</project.scm.id>
-        <spring.version>2.7.13</spring.version>
+        <spring.version>3.4.9</spring.version>
         <orc.version>1.8.4</orc.version>
         <ojdbc8.version>12.2.0.1</ojdbc8.version>
         <zookeeper.version>3.4.14</zookeeper.version>
